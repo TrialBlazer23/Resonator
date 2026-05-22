@@ -162,7 +162,7 @@ cd resonator && pip install -e .
 
 Run the full demo in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TrialBlazer23/resonator/blob/main/demo/resonator_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TrialBlazer23/resonator/blob/main/resonator_demo.ipynb)
 
 No GPU required. Full results in ~8 minutes on CPU.
 
